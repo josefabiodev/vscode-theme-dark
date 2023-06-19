@@ -8,3 +8,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release v0.0.1
 - Readme changes v0.0.2
+- Readme changes v0.0.3
