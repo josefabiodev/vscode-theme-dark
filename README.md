@@ -5,6 +5,6 @@
 
 "[Tema Jose Fabio](https://github.com/josefabiodev/vscode-theme-dark/blob/main/background.png?raw=true)
 
-### Desenvolcedor do tema: José Fábio
+### Desenvolvedor do tema: José Fábio
 
 * GITHUB: https://github.com/josefabiodev
