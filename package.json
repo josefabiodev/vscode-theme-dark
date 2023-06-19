@@ -1,0 +1,33 @@
+{
+  "name": "fabio",
+  "displayName": "Sants-Dark-Theme",
+  "description": "Tema dracula dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josefabiodev/vscode-theme-dark"
+  },
+  "keywords": [
+    "dracula",
+    "theme",
+    "dark-theme",
+    "dark"
+  ],
+  "publisher": "josefabio",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sants-Dark-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sants-dracula-color-theme.json"
+      }
+    ]
+  }
+}
