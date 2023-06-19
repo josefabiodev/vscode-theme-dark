@@ -2,7 +2,7 @@
   "name": "fabio",
   "displayName": "Sants-Dark-Theme",
   "description": "Tema dracula dark para quem gosta do tema Dracula",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.79.0"
   },

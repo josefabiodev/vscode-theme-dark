@@ -90,7 +90,16 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#bd93f9"
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"punctuation",				
+			],
+			"settings": {
+				"foreground": "#f8f8f8"
 			}
 		},
 		{
